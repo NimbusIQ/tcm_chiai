@@ -1,0 +1,8 @@
+{
+  "description": "Chi AI Startup MVP - Advanced Strategic Growth Engine with Google Search, Maps Grounding, and Visual Synthesis.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ],
+  "name": "Chi AI Strategy"
+}
